@@ -6,7 +6,7 @@ http://google.com
 #EXTINF:-1 group-title="Information" ,try play again if reponsed error!
 https://google.com
 #EXTINF:-1 tvg-id="nhkg" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" group-title="Japan",NHK General TV
-http://code.vthanhtivi.pw/getlink/jptv3/213/playlist.m3u8
+http://code.vthanhtivi.pw/getlink/jptv1/Hqm-m7jqkFlA1CloJoaJZQ==/playlist.m3u8
 #EXTINF:-1 tvg-id="nhke" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png" group-title="Japan",NHK Educational TV
 http://code.vthanhtivi.pw/getlink/jptv3/214/playlist.m3u8
 #EXTINF:-1 tvg-id="tvasahi" tvg-logo="https://static.epg.best/jp/Asahi1.jp.png" group-title="Japan",TV Asahi
