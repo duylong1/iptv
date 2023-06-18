@@ -5,13 +5,13 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-id="nhke" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png" group-title="Japan",NHK Educational TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="tvasahi" tvg-logo="https://static.epg.best/jp/Asahi1.jp.png" group-title="Japan",TV Asahi
-http://203.162.235.41:17097/
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="tvtokyo" tvg-logo="https://static.epg.best/jp/TVTokyo.jp.png" group-title="Japan",TV Tokyo
-http://203.162.235.41:19098/
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="tbs" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png" group-title="Japan",TBS
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="fujitv" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png" group-title="Japan",Fuji TV
-http://203.162.235.41:15094/
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://static.epg.best/jp/NipponTV.jp.png" group-title="Japan",Nippon TV
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Japan",TOKYO MX1
@@ -75,13 +75,13 @@ http://code.vthanhtivi.pw/getlink/jptv1/TfcJ9kWH1CIOv9xAI6BrBA==/playlist.m3u8
 #EXTINF:-1 tvg-id="disneych" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-channel-us.svg" group-title="BS",Disney Channel
 https://code.vthanhtivi.pw/getlink/jptv3/39/playlist.m3u8
 #EXTINF:-1 tvg-id="nihoneiga" tvg-logo="https://" group-title="Japan",日本映画専門チャンネル
-http://code.vthanhtivi.pw/getlink/jptv1/EZ01kN4IL0TFHR5h9Jq9BA==/playlist.m3u8
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="BS" tvg-id="starch1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png", Star Channel 1 
-http://code.vthanhtivi.pw/getlink/jptv1/yUuqXFK2vDyiwU66uQEQ1Q==/playlist.m3u8
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="BS" tvg-id="starch2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png", Star Channel 2  
-http://code.vthanhtivi.pw/getlink/jptv1/NGPH2Brrn3gqcgdTIhVmwg==/playlist.m3u8
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="BS" tvg-id="starch3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png", Star Channel 3 
-http://code.vthanhtivi.pw/getlink/jptv1/90LieNPzSaD1VOpEeT7f1w==/playlist.m3u8
+https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="BS" tvg-logo="http://livean.yhvserve.com:9083/query/s/tEg54Q7WKFA66LWT0fB0gw==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Eleven
 http://code.vthanhtivi.pw/getlink/jptv1/tEg54Q7WKFA66LWT0fB0gw==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/WEtgDOVPkrw08bZvlQM6fA==.jpg?type=live&thumbnail=thumbnail_small.jpg", TwellV  
@@ -89,31 +89,31 @@ http://code.vthanhtivi.pw/getlink/jptv1/WEtgDOVPkrw08bZvlQM6fA==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/VJxE-FBlx64-LontMCBEVw==.jpg?type=live&thumbnail=thumbnail_small.jpg", Green Channel  
 http://code.vthanhtivi.pw/getlink/jptv1/VJxE-FBlx64-LontMCBEVw==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="toeich" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", 東映チャンネル / Toei Channel
-http://code.vthanhtivi.pw/getlink/jptv1/jfiMPwRAVsgTmcnf9Wu7HQ==/playlist.m3u8
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CS" tvg-id="eigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", 衛星劇場 / Eisei Gekijo  
 http://code.vthanhtivi.pw/getlink/jptv1/FcJRBrNCLHjS9wKtD2rz7g==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="neco" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png", 映画・チャンネルNECO / Neco   
-http://code.vthanhtivi.pw/getlink/jptv1/EqJ7OEIS3u-Jkyx3-DdtJA==/playlist.m3u8
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CS" tvg-id="thecinema" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/the-cinema-jp.png", ザ・シネマ / The Cinema
 http://code.vthanhtivi.pw/getlink/jptv1/gnFwEiPGB-QioCyMBfvEMA==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="movieplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", ムービープラス / Movie Plus
-http://code.vthanhtivi.pw/getlink/jptv1/84u-cm6u_Ms6JzWF4Dbtkg==/playlist.m3u8
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf
 #EXTINF:-1 group-title="CS" tvg-id="skya" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", スカイ・A / Sky A  
-http://code.vthanhtivi.pw/getlink/jptv1/oJyS_HypG6uzUEEJODMaWg==/playlist.m3u8
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CS" tvg-id="gaora" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS  
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CS" tvg-id="ntvgplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", 日テレジータス / Nittele G+  
-http://code.vthanhtivi.pw/getlink/jptv1/dXGFqT_agGYcOrjCIa5vPg==/playlist.m3u8
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/cmvgVwk7m4psiGgDwUS7LA==.jpg?type=live&thumbnail=thumbnail_small.jpg", ゴルフネットワーク  
-http://code.vthanhtivi.pw/getlink/jptv1/cmvgVwk7m4psiGgDwUS7LA==/playlist.m3u8
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="🇯🇵| CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/8qP22e52mcp47prxNsRFnw==.jpg?type=live&thumbnail=thumbnail_small.jpg",   
 http://code.vthanhtivi.pw/getlink/jptv1/8qP22e52mcp47prxNsRFnw==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/vi2tgiOfMprwHEgs9gJxag==.jpg?type=live&thumbnail=thumbnail_small.jpg", 時代劇専門チャンネル  
-http://code.vthanhtivi.pw/getlink/jptv1/vi2tgiOfMprwHEgs9gJxag==/playlist.m3u8
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/YZdcUvyN3G-Zw8OiuJVXxA==.jpg?type=live&thumbnail=thumbnail_small.jpg", ファミリー劇場  
-http://code.vthanhtivi.pw/getlink/jptv1/YZdcUvyN3G-Zw8OiuJVXxA==/playlist.m3u8
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/859y5OLm0n2u1DZrEsgeFQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", ホームドラマチャンネル  
-http://code.vthanhtivi.pw/getlink/jptv1/859y5OLm0n2u1DZrEsgeFQ==/playlist.m3u8
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/6WNaVnjpGGYCdDmSAxSvFA==.jpg?type=live&thumbnail=thumbnail_small.jpg", MONDO TV  
 http://code.vthanhtivi.pw/getlink/jptv1/6WNaVnjpGGYCdDmSAxSvFA==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/XPdnc60q681yL5pyEmrslg==.jpg?type=live&thumbnail=thumbnail_small.jpg", ＴＢＳチャンネル１  
@@ -127,7 +127,7 @@ http://code.vthanhtivi.pw/getlink/jptv1/RLwfnqOjOHGRx6UW3qBXsg==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/1c9wCVY_quBwDk4RNxuPWw==.jpg?type=live&thumbnail=thumbnail_small.jpg", 日テレプラス  
 http://code.vthanhtivi.pw/getlink/jptv1/1c9wCVY_quBwDk4RNxuPWw==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/gQmngIMvdnJvKcjGLAYJOw==.jpg?type=live&thumbnail=thumbnail_small.jpg", チャンネル銀河  
-http://code.vthanhtivi.pw/getlink/jptv1/gQmngIMvdnJvKcjGLAYJOw==/playlist.m3u8
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/VelQc1lmVJnTyEmr6oK1RA==.jpg?type=live&thumbnail=thumbnail_small.jpg", フジテレビＯＮＥ  
 http://code.vthanhtivi.pw/getlink/jptv1/VelQc1lmVJnTyEmr6oK1RA==/playlist.m3u8
 #EXTINF:-1 group-title="🇯CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/3q1U1u-6q9QMDWuMuvpPUA==.jpg?type=live&thumbnail=thumbnail_small.jpg", フジテレビＴＷＯ  
@@ -135,7 +135,7 @@ http://code.vthanhtivi.pw/getlink/jptv1/3q1U1u-6q9QMDWuMuvpPUA==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/rhKOiZXma2k2EoIaL9RCmg==.jpg?type=live&thumbnail=thumbnail_small.jpg", フジテレビＮＥＸＴ  
 http://code.vthanhtivi.pw/getlink/jptv1/rhKOiZXma2k2EoIaL9RCmg==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/Dx-fj30YfMqlPP9MVx7qvQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", スーパー！ドラマＴＶ  
-http://code.vthanhtivi.pw/getlink/jptv1/Dx-fj30YfMqlPP9MVx7qvQ==/playlist.m3u8
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CS" tvg-id="fox" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-us.svg", FOX   
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/tQU0QsuMA_251h8Mk4qrsw==.jpg?type=live&thumbnail=thumbnail_small.jpg", 女性チャンネル♪LaLa TV  
@@ -153,8 +153,8 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/1Tr6-XU6jnR9bECmjsJg8g==.jpg?type=live&thumbnail=thumbnail_small.jpg",   
 http://code.vthanhtivi.pw/getlink/jptv1/1Tr6-XU6jnR9bECmjsJg8g==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/xh4GJxN8zJFL3SmJ1P6Xsg==.jpg?type=live&thumbnail=thumbnail_small.jpg", キッズステーション  
-http://code.vthanhtivi.pw/getlink/jptv1/xh4GJxN8zJFL3SmJ1P6Xsg==/playlist.m3u8
-#EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/noeD-Yf5Rph09MTEByH-Xw==.jpg?type=live&thumbnail=thumbnail_small.jpg",   
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+#EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/noeD-Yf5Rph09MTEByH-Xw==.jpg?type=live&thumbnail=thumbnail_small.jpg", Cartoon Network  
 http://code.vthanhtivi.pw/getlink/jptv1/noeD-Yf5Rph09MTEByH-Xw==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/xPz9TWJwU7yL_fToz1k9sg==.jpg?type=live&thumbnail=thumbnail_small.jpg", ディズニージュニア お子さま向けディズニー番組  
 http://code.vthanhtivi.pw/getlink/jptv1/xPz9TWJwU7yL_fToz1k9sg==/playlist.m3u8
