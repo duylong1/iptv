@@ -39,9 +39,9 @@ http://170.178.177.126:9083/live/LV1PLUS-lv1/wz/mY/wzmYukJOZthhWmV8rwWVdw==/live
 #EXTINF:-1 tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png" group-title="Kansai / 関西",KBS Kyoto
 http://170.178.177.125:9083/live/LV1PLUS-lv1/tc/qe/tcqeOyhJ9GK_A-VKHVXf3g==/live.livesegments.M3U8?sc_tk=2Cngt8hV8wJfXUkYNvBwcA7vkTCc3abIRBF5Qv76QzZcMbKGTbcIVQdD42I7soamU5Z%2BwIPxpHn%2F%2FgK8seslQ3IzcZVtkz%2BWfgeHjhO9%2BEA%3D&filekey=0cet5bMqG4I7muNI00FIR_rckMmkqnxgc9L60ln-dfA%3D
 #EXTINF:-1 tvg-id="nhkbs1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="BS",NHK BS1
-http://code.vthanhtivi.pw/getlink/jptv1/f-uLAeVdSWp9bd1XFM3Pzw==/playlist.m3u8
+170.178.177.126:9083/live/LV1PLUS-lv1/O_/EN/O_ENlhVKReOAbnN0g7qI-g==/live.livesegments.M3U8?sc_tk=jH1TDmRJfZwjI09OrZYqSASx1wM871khEfwOHR2x%2FnQ1xxgIV8LuXtiXf4jElEZ6Vs3U5orcLNKbuvSxuT5N1Hr5Dz5O9AsUcK13ujqvojY%3D&filekey=jueSm3mqTyEqDYhcv3-l1-eWQpMoCWiaFNb_34Tb0to%3D
 #EXTINF:-1 tvg-id="nhkbsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="BS",NHK BS Premium
-http://code.vthanhtivi.pw/getlink/jptv1/z3QuIfTGLtMqsBfWF1H4Pg==/playlist.m3u8
+170.178.177.122:9083/live/LV1PLUS-lv1/KP/SA/KPSAx3qMVSDLhsbuGfIZJA==/live.livesegments.M3U8?sc_tk=jH1TDmRJfZwjI09OrZYqSASx1wM871khEfwOHR2x%2FnQ1xxgIV8LuXtiXf4jElEZ6h66oxoNXzidiENbznEGbfk601tBWB3tBkth6NSqEKUg%3D&filekey=DGHDeTQU68BYUt-XwuB0qoehyrcdY9TxPdtDyJcVFPc%3D
 #EXTINF:-1 tvg-id="bsntv" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="BS",BS NTV
 http://code.vthanhtivi.pw/getlink/jptv1/9GYVLtOWedFVhurDZOtidw==/playlist.m3u8
 #EXTINF:-1 tvg-id="mbs" tvg-logo="http://livean.yhvserve.com:9083/query/s/M9b8YoeShhTsfaXXoNZJDw==.jpg?type=live&thumbnail=thumbnail_small.jpg" group-title="BS",BS Animax
