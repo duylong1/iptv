@@ -8,7 +8,7 @@ http://203.162.235.41:14093/
 #EXTINF:-1 tvg-id="nhke" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png" group-title="Japan",NHK Educational TV
 http://code.vthanhtivi.pw/getlink/jptv3/214/playlist.m3u8
 #EXTINF:-1 tvg-id="tvasahi" tvg-logo="https://static.epg.best/jp/Asahi1.jp.png" group-title="Japan",TV Asahi
-http://203.162.235.41:17097/
+http://code.vthanhtivi.pw/getlink/jptv3/205/playlist.m3u8
 #EXTINF:-1 tvg-id="tvtokyo" tvg-logo="https://static.epg.best/jp/TVTokyo.jp.png" group-title="Japan",TV Tokyo
 http://code.vthanhtivi.pw/getlink/jptv3/276/playlist.m3u8
 #EXTINF:-1 tvg-id="tbs" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png" group-title="Japan",TBS
@@ -18,7 +18,7 @@ http://203.162.235.41:15094/
 #EXTINF:-1 tvg-id="ntv" tvg-logo="https://static.epg.best/jp/NipponTV.jp.png" group-title="Japan",Nippon TV
 http://203.162.235.41:16095/
 #EXTINF:-1 tvg-id="tokyomx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Japan",TOKYO MX1
-http://code.vthanhtivi.pw/getlink/jptv1/9FvJseD6_AtVYU1vxvgzFA==/playlist.m3u8
+http://code.vthanhtivi.pw/getlink/jptv3/277/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png" group-title="Japan",TOKYO MX 2 
 http://code.vthanhtivi.pw/getlink/jptv1/u6-t-I0UVIdrkCYJzXFkpg==/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" status="online",Fashion TV Midnight Secrets
@@ -28,25 +28,27 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 #EXTINF:-1 group-title="Japan" tvg-logo="http://livean.yhvserve.com:9083/query/s/X4_3qVMPUBpZMqO_hX4vBw==.jpg?type=live&thumbnail=thumbnail_small.jpg", アニメシアターX（AT-X)  
 http://code.vthanhtivi.pw/getlink/jptv1/X4_3qVMPUBpZMqO_hX4vBw==/playlist.m3u8
 #EXTINF:-1 tvg-id="nhkgosaka" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" group-title="Kansai / 関西",NHK General TV Osaka
-http://code.vthanhtivi.pw/getlink/jptv1/mCOs5Hrdk31FTwR6IJj_hA==/playlist.m3u8
+http://code.vthanhtivi.pw/getlink/jptv3/206/playlist.m3u8
 #EXTINF:-1 tvg-id="NHKEducationalTV.jp" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png" group-title="Kansai / 関西",NHK Educational TV Osaka
 http://code.vthanhtivi.pw/getlink/jptv1/Efifu_2sffWgvfUzPuoNvA==/playlist.m3u8
 #EXTINF:-1 tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png" group-title="Kansai / 関西",MBS
-http://code.vthanhtivi.pw/getlink/jptv1/R3W0ABMki1QGwd3TxPxjhA==/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptv3/208/playlist.m3u8
 #EXTINF:-1 tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png" group-title="Kansai / 関西",ABC
-http://code.vthanhtivi.pw/getlink/jptv1/oI8q04LSmuVJ76lxll2FWg==/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptv3/209/playlist.m3u8
 #EXTINF:-1 tvg-id="ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png" group-title="Kansai / 関西",Kansai TV
-http://code.vthanhtivi.pw/getlink/jptv1/jXAkGPMC5sVcMvQ09HoU4g==/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptv3/210/playlist.m3u8
 #EXTINF:-1 tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png" group-title="Kansai / 関西",Yomiuri TV
-http://code.vthanhtivi.pw/getlink/jptv1/LqzQ_qk7P8LNOaghAThx4g==/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptv3/211/playlist.m3u8
 #EXTINF:-1 tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/2560px-Kbs_logo.svg.png" group-title="Kansai / 関西",KBS Kyoto
 http://code.vthanhtivi.pw/getlink/jptv1/hFzosjtNqYtZGMMnkL0T7w==/playlist.m3u8
+#EXTINF:-1 group-title="Kansai / 関西" tvg-id="tvosaka" tvg-logo="https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png", TV Osaka HD
+https://code.vthanhtivi.pw/getlink/jptv3/212/playlist.m3u8
 #EXTINF:-1 group-title="Kansai / 関西" tvg-id="suntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png", SUN TV HD
 https://code.vthanhtivi.pw/getlink/jptv3/207/playlist.m3u8
 #EXTINF:-1 tvg-id="nhkbs1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png" group-title="BS",NHK BS1
-http://code.vthanhtivi.pw/getlink/jptv1/f-uLAeVdSWp9bd1XFM3Pzw==/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptv3/215/playlist.m3u8
 #EXTINF:-1 tvg-id="nhkbsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png" group-title="BS",NHK BS Premium
-http://code.vthanhtivi.pw/getlink/jptv1/z3QuIfTGLtMqsBfWF1H4Pg==/playlist.m3u8
+https://code.vthanhtivi.pw/getlink/jptv3/216/playlist.m3u8
 #EXTINF:-1 tvg-id="bsntv" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="BS",BS NTV
 http://code.vthanhtivi.pw/getlink/jptv1/9GYVLtOWedFVhurDZOtidw==/playlist.m3u8
 #EXTINF:-1 tvg-id="mbs" tvg-logo="http://livean.yhvserve.com:9083/query/s/M9b8YoeShhTsfaXXoNZJDw==.jpg?type=live&thumbnail=thumbnail_small.jpg" group-title="BS",BS Animax
