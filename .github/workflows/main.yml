@@ -1,2 +1,16 @@
 - name: Find and Replace
+  # You may pin to the exact commit or the version.
+  # uses: jacobtomlinson/gha-find-replace@a51bbcd94d000df9ca0fcb54ec8be69aad8374b0
   uses: jacobtomlinson/gha-find-replace@v3
+  with:
+    # A glob of files to include in our find and replace
+    include:"**japan2"
+    # A glob of files to exclude in our find and replace
+    exclude:
+    # The regular expression (or fixed string) we want to replace
+    find: "playlist_eb9368481d6fd72ca38a6c27a152937bf0d47df4"
+    # The new string to replace with
+    replace: "playlist_eb9368481d6fd72ca38a6c27a152937bf0d47df4"
+    # Whether to match with.find as a regular expression instead of a fixed string
+    regex: # optional
+
