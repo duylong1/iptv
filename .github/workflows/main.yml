@@ -1,15 +1,14 @@
-- name: Find and Replace
-  # You may pin to the exact commit or the version.
-  # uses: jacobtomlinson/gha-find-replace@a51bbcd94d000df9ca0fcb54ec8be69aad8374b0
-  uses: jacobtomlinson/gha-find-replace@v3
-  with:
-    # A glob of files to include in our find and replace
-    include: # optional, default is **
-    # A glob of files to exclude in our find and replace
-    exclude: # optional, default is .git/**
-    # The regular expression (or fixed string) we want to replace
-    find: "eb9368481d6fd72ca38a6c27a152937bf0d47df4.m3u8"
-    # The new string to replace with
-    replace: "eb9368481d6fd72ca38a6c27a152937bf0d47df4.m3u8"
-    # Whether to match with.find as a regular expression instead of a fixed string
-    regex: false
+name: My Workflow
+on: [push, pull_request]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Find and Replace
+        uses: jacobtomlinson/gha-find-replace@v3
+        with:
+          find: "eb9368481d6fd72ca38a6c27a152937bf0d47df4.m3u8"
+          replace: "eb9368481d6fd72ca38a6c27a152937bf0d47df4.m3u8"
+          include: "japan2/**"
+          regex: true
