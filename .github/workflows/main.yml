@@ -8,7 +8,7 @@ jobs:
       - name: Find and Replace
         uses: jacobtomlinson/gha-find-replace@v3
         with:
-          find: "eb9368481d6fd72ca38a6c27a152937bf0d47df4.m3u8"
-          replace: "e3b9f87ec43b2d65742a"
+          find: ""
+          replace: ""
           include: ""
           regex: true
