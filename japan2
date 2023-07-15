@@ -342,7 +342,7 @@ http://code.hqth.xyz/getlink/jptv1/Dx-fj30YfMqlPP9MVx7qvQ==/playlist.m3u8
 http://code.hqth.xyz/getlink/jptv1/3d_lKfbxi344MiAxcjIypQ==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="axn" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/7DAgtceRMrmqB0tdsO6edw==.jpg?type=live&thumbnail=thumbnail_small.jpg", AXN  
 http://code.hqth.xyz/getlink/jptv1/7DAgtceRMrmqB0tdsO6edw==/playlist.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="cnn" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-us.svg", CNN J
+#EXTINF:-1 group-title="CS" tvg-id="cnnj" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/fox-us.svg", CNN J
 http://code.hqth.xyz/getlink/jptv1/hVlErRkxgtD7mpAR6ZXPmQ==/playlist.m3u8
 #EXTINF:-1 group-title"CS" tvg-id="axnmystery" tvg-logo="http://asian.ynnhcwdf.com:9083/query/s/ajfvfjzToRaRPAD0O83-MQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", AXN Mystery  
 http://code.hqth.xyz/getlink/jptv1/ajfvfjzToRaRPAD0O83-MQ==/playlist.m3u8
@@ -370,21 +370,23 @@ http://code.hqth.xyz/getlink/jptv1/noeD-Yf5Rph09MTEByH-Xw==/playlist.m3u8
 http://code.hqth.xyz/getlink/jptv1/xPz9TWJwU7yL_fToz1k9sg==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="historych" tvg-logo="http://livean.yhvserve.com:9083/query/s/I9B-HWhc2NgCmw6X9ahDMg==.jpg?type=live&thumbnail=thumbnail_small.jpg", ヒストリーチャンネル 日本・世界の歴史＆エンタメ  
 http://code.hqth.xyz/getlink/jptv1/I9B-HWhc2NgCmw6X9ahDMg==/playlist.m3u8
+#EXTINF:-1 tvg-id="discovery" tvg-name="Discovery Channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png" group-title="CS",Discovery Channel
+https://code.hqth.xyz/getlink/jptv1/BCUcKhY7Q2Hc77kEleR6Xg==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="natgeo" tvg-logo="http://livean.yhvserve.com:9083/query/s/OZooDkZinq-FLyeL7jtOHw==.jpg?type=live&thumbnail=thumbnail_small.jpg", ナショナル ジオグラフィック  
 http://code.hqth.xyz/getlink/jptv1/OZooDkZinq-FLyeL7jtOHw==/playlist.m3u8
-#EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/TUUoaNpgwX_Bs7GXhkkw_g==.jpg?type=live&thumbnail=thumbnail_small.jpg", 日テレNEWS24  
+#EXTINF:-1 group-title="CS" tvg-id="ntvnews24" tvg-logo="http://livean.yhvserve.com:9083/query/s/TUUoaNpgwX_Bs7GXhkkw_g==.jpg?type=live&thumbnail=thumbnail_small.jpg", 日テレNEWS24  
 http://code.hqth.xyz/getlink/jptv1/TUUoaNpgwX_Bs7GXhkkw_g==/playlist.m3u8
-#EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/D6eJg7aQZE3DKVZWNTTnYw==.jpg?type=live&thumbnail=thumbnail_small.jpg", ＴＢＳニュースバード  
+#EXTINF:-1 group-title="CS" tvg-id="tbsnews" tvg-logo="http://livean.yhvserve.com:9083/query/s/D6eJg7aQZE3DKVZWNTTnYw==.jpg?type=live&thumbnail=thumbnail_small.jpg", ＴＢＳニュースバード  
 http://code.hqth.xyz/getlink/jptv1/D6eJg7aQZE3DKVZWNTTnYw==/playlist.m3u8
-#EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/G7Ernt-n_X5V7KUcreybIQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",   
+#EXTINF:-1 group-title="CS" tvg-id="igoshogi" tvg-logo="http://livean.yhvserve.com:9083/query/s/G7Ernt-n_X5V7KUcreybIQ==.jpg?type=live&thumbnail=thumbnail_small.jpg",   Igo Shogi
 http://code.hqth.xyz/getlink/jptv1/G7Ernt-n_X5V7KUcreybIQ==/playlist.m3u8
-#EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/-uV8jOhgHBRuuEMBdU0Yig==.jpg?type=live&thumbnail=thumbnail_small.jpg", スポーツライブ＋  
+#EXTINF:-1 group-title="CS" tvg-id="sportliveplus" tvg-logo="http://livean.yhvserve.com:9083/query/s/-uV8jOhgHBRuuEMBdU0Yig==.jpg?type=live&thumbnail=thumbnail_small.jpg", スポーツライブ＋  
 http://code.hqth.xyz/getlink/jptv1/-uV8jOhgHBRuuEMBdU0Yig==/playlist.m3u8
-#EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/bMt3M9FLE1owVWp5Do1qnQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", 旅チャンネルＨＤ  
+#EXTINF:-1 group-title="CS" tvg-id="tabich" tvg-logo="http://livean.yhvserve.com:9083/query/s/bMt3M9FLE1owVWp5Do1qnQ==.jpg?type=live&thumbnail=thumbnail_small.jpg", 旅チャンネルＨＤ  
 http://code.hqth.xyz/getlink/jptv1/bMt3M9FLE1owVWp5Do1qnQ==/playlist.m3u8
-#EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/X5WzyzsdPL1pNzWxOctwBA==.jpg?type=live&thumbnail=thumbnail_small.jpg", 鉄道チャンネル  
+#EXTINF:-1 group-title="CS" tvg-id="im_using_jcom_epg_lol" tvg-logo="http://livean.yhvserve.com:9083/query/s/X5WzyzsdPL1pNzWxOctwBA==.jpg?type=live&thumbnail=thumbnail_small.jpg", 鉄道チャンネル  
 http://code.hqth.xyz/getlink/jptv1/X5WzyzsdPL1pNzWxOctwBA==/playlist.m3u8
-#EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/roHA-uoOn8d5muaZM04Qxg==.jpg?type=live&thumbnail=thumbnail_small.jpg", FIGHTING TV サムライ  
+#EXTINF:-1 group-title="CS" tvg-id="fightingtv" tvg-logo="http://livean.yhvserve.com:9083/query/s/roHA-uoOn8d5muaZM04Qxg==.jpg?type=live&thumbnail=thumbnail_small.jpg", FIGHTING TV サムライ  
 http://code.hqth.xyz/getlink/jptv1/roHA-uoOn8d5muaZM04Qxg==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/N-L_Pke3yIkFUoSaEova3g==.jpg?type=live&thumbnail=thumbnail_small.jpg", ミュージック・ジャパンTV  
 http://code.hqth.xyz/getlink/jptv1/N-L_Pke3yIkFUoSaEova3g==/playlist.m3u8
