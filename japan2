@@ -194,7 +194,7 @@ http://code.hqth.xyz/getlink/jptv1/kKx57kaG4Tz9tOTiLx8exA==/playlist.m3u8
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 
-*source:vthanhtivi.pw
+*source:vthanhtivi
 
 #EXTINF:-1 tvg-id="nhkg" tvg-logo="https://1000logos.net/wp-content/uploads/2020/10/NHK-Logo.png" group-title="Japan",NHK World Premium
 http://203.162.235.41:12091/
@@ -220,7 +220,7 @@ http://code.hqth.xyz/getlink/jptv1/u6-t-I0UVIdrkCYJzXFkpg==/playlist.m3u8
 https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" status="online",Fashion TV Midnight Secrets (1080p)
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Japan" tvg-logo="http://livean.yhvserve.com:9083/query/s/X4_3qVMPUBpZMqO_hX4vBw==.jpg?type=live&thumbnail=thumbnail_small.jpg", アニメシアターX（AT-X)  
+#EXTINF:-1 group-title="Japan" tvg-id="at-x" tvg-logo="http://livean.yhvserve.com:9083/query/s/X4_3qVMPUBpZMqO_hX4vBw==.jpg?type=live&thumbnail=thumbnail_small.jpg", アニメシアターX（AT-X)  
 http://code.hqth.xyz/getlink/jptv1/X4_3qVMPUBpZMqO_hX4vBw==/playlist.m3u8
 #EXTINF:-1 tvg-id="nhkgosaka" tvg-name="NHK G Osaka" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png" group-title="Kansai / 関西",NHK General TV Osaka
 http://code.hqth.xyz/getlink/jptv1/mCOs5Hrdk31FTwR6IJj_hA==/playlist.m3u8
@@ -246,7 +246,7 @@ http://code.hqth.xyz/getlink/jptv1/f-uLAeVdSWp9bd1XFM3Pzw==/playlist.m3u8
 http://code.hqth.xyz/getlink/jptv1/z3QuIfTGLtMqsBfWF1H4Pg==/playlist.m3u8
 #EXTINF:-1 tvg-id="bsntv" tvg-logo="https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png" group-title="BS",BS NTV
 http://code.hqth.xyz/getlink/jptv1/9GYVLtOWedFVhurDZOtidw==/playlist.m3u8
-#EXTINF:-1 tvg-id="mbs" tvg-logo="http://livean.yhvserve.com:9083/query/s/M9b8YoeShhTsfaXXoNZJDw==.jpg?type=live&thumbnail=thumbnail_small.jpg" group-title="BS",BS Animax
+#EXTINF:-1 tvg-id="animax" tvg-logo="http://livean.yhvserve.com:9083/query/s/M9b8YoeShhTsfaXXoNZJDw==.jpg?type=live&thumbnail=thumbnail_small.jpg" group-title="BS",BS Animax
 http://code.hqth.xyz/getlink/jptv1/M9b8YoeShhTsfaXXoNZJDw==/playlist.m3u8
 #EXTINF:-1 tvg-id="bsasahi" tvg-logo="https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png" group-title="BS",BS Asahi
 http://code.hqth.xyz/getlink/jptv1/CDf67JD0vmiC74DDaND-XA==/playlist.m3u8
@@ -272,6 +272,7 @@ http://code.hqth.xyz/getlink/jptv1/uwliL6IX2s7jD1yJwLogYA==/playlist.m3u8
 http://code.hqth.xyz/getlink/jptv1/iTJCVvFevlmYFWr2kDu6tg==/playlist.m3u8
 #EXTINF:-1 tvg-id="wowowplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow-plus-jp.png" group-title="BS",WOWOW Plus
 http://code.hqth.xyz/getlink/jptv1/TfcJ9kWH1CIOv9xAI6BrBA==/playlist.m3u8
+#EXTINF:-1 tvg-id="fishing" tvg-name="BS Fishing Vision" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png" group-title="BS2",BS Fishing http://code.vthanhtivi.pw/getlink/jptv1/chSauCF_-xtI2nAKn1HIVw==/playlist.m3u8
 #EXTINF:-1 tvg-id="disneych" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-channel-us.svg" group-title="BS",Disney Channel
 http://code.hqth.xyz/getlink/jptv1/iEpvKTL_zcrh2cTR1D8EUA==/playlist.m3u8
 #EXTINF:-1 tvg-id="nihoneiga" tvg-logo="https://" group-title="Japan",日本映画専門チャンネル
@@ -282,11 +283,11 @@ http://code.hqth.xyz/getlink/jptv1/yUuqXFK2vDyiwU66uQEQ1Q==/playlist.m3u8
 http://code.hqth.xyz/getlink/jptv1/NGPH2Brrn3gqcgdTIhVmwg==/playlist.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="starch3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png", Star Channel 3 
 http://code.hqth.xyz/getlink/jptv1/90LieNPzSaD1VOpEeT7f1w==/playlist.m3u8
-#EXTINF:-1 group-title="BS" tvg-logo="http://livean.yhvserve.com:9083/query/s/tEg54Q7WKFA66LWT0fB0gw==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Eleven
+#EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="http://livean.yhvserve.com:9083/query/s/tEg54Q7WKFA66LWT0fB0gw==.jpg?type=live&thumbnail=thumbnail_small.jpg", BS Eleven
 http://code.hqth.xyz/getlink/jptv1/tEg54Q7WKFA66LWT0fB0gw==/playlist.m3u8
-#EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/WEtgDOVPkrw08bZvlQM6fA==.jpg?type=live&thumbnail=thumbnail_small.jpg", TwellV  
+#EXTINF:-1 group-title="BS" tvg-id="bs12" tvg-logo="http://livean.yhvserve.com:9083/query/s/WEtgDOVPkrw08bZvlQM6fA==.jpg?type=live&thumbnail=thumbnail_small.jpg", TwellV  
 http://code.hqth.xyz/getlink/jptv1/WEtgDOVPkrw08bZvlQM6fA==/playlist.m3u8
-#EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/VJxE-FBlx64-LontMCBEVw==.jpg?type=live&thumbnail=thumbnail_small.jpg", Green Channel  
+#EXTINF:-1 group-title="BS" tvg-id="greench" tvg-logo="http://livean.yhvserve.com:9083/query/s/VJxE-FBlx64-LontMCBEVw==.jpg?type=live&thumbnail=thumbnail_small.jpg", Green Channel  
 http://code.hqth.xyz/getlink/jptv1/VJxE-FBlx64-LontMCBEVw==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="toeich" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", 東映チャンネル / Toei Channel
 http://code.hqth.xyz/getlink/jptv1/jfiMPwRAVsgTmcnf9Wu7HQ==/playlist.m3u8
