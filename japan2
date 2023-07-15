@@ -308,9 +308,9 @@ http://code.hqth.xyz/getlink/jptv1/tO9COl46v4MdIi1NdbzL0A==/playlist.m3u8
 http://code.hqth.xyz/getlink/jptv1/dXGFqT_agGYcOrjCIa5vPg==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="golfnw" tvg-logo="http://livean.yhvserve.com:9083/query/s/cmvgVwk7m4psiGgDwUS7LA==.jpg?type=live&thumbnail=thumbnail_small.jpg", ゴルフネットワーク  
 http://code.hqth.xyz/getlink/jptv1/cmvgVwk7m4psiGgDwUS7LA==/playlist.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="skystage" tvg-logo="http://livean.yhvserve.com:9083/query/s/8qP22e52mcp47prxNsRFnw==.jpg?type=live&thumbnail=thumbnail_small.jpg",  Takarazuka Sky Stage
+#EXTINF:-1 group-title="CS" tvg-id="skystage" tvg-logo="http://livean.yhvserve.com:9083/query/s/8qP22e52mcp47prxNsRFnw==.jpg?type=live&thumbnail=thumbnail_small.jpg", 宝塚歌劇専門チャンネル / Takarazuka Sky Stage
 http://code.hqth.xyz/getlink/jptv1/8qP22e52mcp47prxNsRFnw==/playlist.m3u8
-#EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/vi2tgiOfMprwHEgs9gJxag==.jpg?type=live&thumbnail=thumbnail_small.jpg", 時代劇専門チャンネル  
+#EXTINF:-1 group-title="CS" tvg-id="jidaigeki" tvg-logo="http://livean.yhvserve.com:9083/query/s/vi2tgiOfMprwHEgs9gJxag==.jpg?type=live&thumbnail=thumbnail_small.jpg", 時代劇専門チャンネル  
 http://code.hqth.xyz/getlink/jptv1/vi2tgiOfMprwHEgs9gJxag==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/YZdcUvyN3G-Zw8OiuJVXxA==.jpg?type=live&thumbnail=thumbnail_small.jpg", ファミリー劇場  
 http://code.hqth.xyz/getlink/jptv1/YZdcUvyN3G-Zw8OiuJVXxA==/playlist.m3u8
