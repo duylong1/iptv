@@ -290,6 +290,12 @@ http://code.hqth.xyz/getlink/jptv1/tEg54Q7WKFA66LWT0fB0gw==/playlist.m3u8
 http://code.hqth.xyz/getlink/jptv1/WEtgDOVPkrw08bZvlQM6fA==/playlist.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="greench" tvg-logo="http://livean.yhvserve.com:9083/query/s/VJxE-FBlx64-LontMCBEVw==.jpg?type=live&thumbnail=thumbnail_small.jpg", Green Channel  
 http://code.hqth.xyz/getlink/jptv1/VJxE-FBlx64-LontMCBEVw==/playlist.m3u8
+#EXTINF:-1 tvg-id="bstokyu" tvg-name="BS Shochiku Tokyu" tvg-logo="https://spice.eplus.jp/images/I1yDwjvMRViPzKUCyRmiq0ES03KPPQlBIsn5FSq74vVic3lLWndaqZmYcuWaoiRJ" group-title="BS",BS Shochiku Tokyu
+https://code.hqth.xyz/getlink/jptv1/l6kArOPkx3rCe-BY5PGk5Q==/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BS Japanext" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BS-Japanext.svg" group-title="BS",BS Japanext
+https://code.hqth.xyz/getlink/jptv1/Hj8HzlXSQnqBFMUva4MA4g==/playlist.m3u8
+#EXTINF:-1 tvg-id="bsyoshimoto" tvg-name="BS Yoshimoto" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/BS-Yoshimoto.svg/revision/latest/scale-to-width-down/300?cb=20220315152056" group-title="BS",BS Yoshimoto
+https://code.hqth.xyz/getlink/jptv1/7_NqQ8YhAIHChUndlSRpYQ==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="toeich" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", 東映チャンネル / Toei Channel
 http://code.hqth.xyz/getlink/jptv1/jfiMPwRAVsgTmcnf9Wu7HQ==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="eigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", 衛星劇場 / Eisei Gekijo  
