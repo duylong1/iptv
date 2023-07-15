@@ -272,7 +272,8 @@ http://code.hqth.xyz/getlink/jptv1/uwliL6IX2s7jD1yJwLogYA==/playlist.m3u8
 http://code.hqth.xyz/getlink/jptv1/iTJCVvFevlmYFWr2kDu6tg==/playlist.m3u8
 #EXTINF:-1 tvg-id="wowowplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/wowow-plus-jp.png" group-title="BS",WOWOW Plus
 http://code.hqth.xyz/getlink/jptv1/TfcJ9kWH1CIOv9xAI6BrBA==/playlist.m3u8
-#EXTINF:-1 tvg-id="fishing" tvg-name="BS Fishing Vision" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png" group-title="BS2",BS Fishing http://code.vthanhtivi.pw/getlink/jptv1/chSauCF_-xtI2nAKn1HIVw==/playlist.m3u8
+#EXTINF:-1 tvg-id="fishing" tvg-name="BS Fishing Vision" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png" group-title="BS",BS Fishing Vision
+http://code.hqth.xyz/getlink/jptv1/chSauCF_-xtI2nAKn1HIVw==/playlist.m3u8
 #EXTINF:-1 tvg-id="disneych" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-channel-us.svg" group-title="BS",Disney Channel
 http://code.hqth.xyz/getlink/jptv1/iEpvKTL_zcrh2cTR1D8EUA==/playlist.m3u8
 #EXTINF:-1 tvg-id="nihoneiga" tvg-logo="https://" group-title="Japan",日本映画専門チャンネル
@@ -303,11 +304,11 @@ http://code.hqth.xyz/getlink/jptv1/84u-cm6u_Ms6JzWF4Dbtkg==/playlist.m3u8
 http://code.hqth.xyz/getlink/jptv1/oJyS_HypG6uzUEEJODMaWg==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="gaora" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS  
 http://code.hqth.xyz/getlink/jptv1/tO9COl46v4MdIi1NdbzL0A==/playlist.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="ntvgplus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", 日テレジータス / Nittele G+  
+#EXTINF:-1 group-title="CS" tvg-id="gtasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", 日テレジータス / Nittele G+  
 http://code.hqth.xyz/getlink/jptv1/dXGFqT_agGYcOrjCIa5vPg==/playlist.m3u8
-#EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/cmvgVwk7m4psiGgDwUS7LA==.jpg?type=live&thumbnail=thumbnail_small.jpg", ゴルフネットワーク  
+#EXTINF:-1 group-title="CS" tvg-id="golfnw" tvg-logo="http://livean.yhvserve.com:9083/query/s/cmvgVwk7m4psiGgDwUS7LA==.jpg?type=live&thumbnail=thumbnail_small.jpg", ゴルフネットワーク  
 http://code.hqth.xyz/getlink/jptv1/cmvgVwk7m4psiGgDwUS7LA==/playlist.m3u8
-#EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/8qP22e52mcp47prxNsRFnw==.jpg?type=live&thumbnail=thumbnail_small.jpg",   
+#EXTINF:-1 group-title="CS" tvg-id="skystage" tvg-logo="http://livean.yhvserve.com:9083/query/s/8qP22e52mcp47prxNsRFnw==.jpg?type=live&thumbnail=thumbnail_small.jpg",  Takarazuka Sky Stage
 http://code.hqth.xyz/getlink/jptv1/8qP22e52mcp47prxNsRFnw==/playlist.m3u8
 #EXTINF:-1 group-title="CS" tvg-logo="http://livean.yhvserve.com:9083/query/s/vi2tgiOfMprwHEgs9gJxag==.jpg?type=live&thumbnail=thumbnail_small.jpg", 時代劇専門チャンネル  
 http://code.hqth.xyz/getlink/jptv1/vi2tgiOfMprwHEgs9gJxag==/playlist.m3u8
