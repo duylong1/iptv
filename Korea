@@ -1,0 +1,38 @@
+#EXTINF:-1 tvg-id="KBS1TV.kr" tvg-logo="https://i.postimg.cc/CLNzczNh/20230203-184729.png" group-title="TV Dunia",KBS 1 (Korea)
+http://ye23.vip/z7z8/2021/kbs2020.php?id=1
+
+#EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://i.postimg.cc/CLNzczNh/20230203-184729.png" group-title="TV Dunia",KBS 2 (Korea)
+http://ye23.vip/z7z8/2021/kbs2020.php?id=2
+
+#EXTINF:-1 tvg-id="KBSDrama.kr" tvg-logo="https://i.postimg.cc/CLNzczNh/20230203-184729.png" group-title="TV Dunia",KBS Drama (Korea)
+http://ye23.vip/z7z8/2021/kbs2020.php?id=5
+
+#EXTINF:-1 tvg-id="KBSJoy.kr" tvg-logo="https://i.postimg.cc/CLNzczNh/20230203-184729.png" group-title="TV Dunia",KBS Joy (Korea)
+http://ye23.vip/z7z8/2021/kbs2020.php?id=6
+
+#EXTINF:-1 tvg-id="KBSKids.kr" tvg-logo="https://i.postimg.cc/CLNzczNh/20230203-184729.png" group-title="TV Dunia",KBS Kids (Korea)
+http://ye23.vip/z7z8/2021/kbs2020.php?id=9
+
+#EXTINF:-1 tvg-id="KBSLife.kr" tvg-logo="https://i.postimg.cc/CLNzczNh/20230203-184729.png" group-title="TV Dunia",KBS Life (Korea)
+http://ye23.vip/z7z8/2021/kbs2020.php?id=7
+
+#EXTINF:-1 tvg-id="KBSNewsD.kr" tvg-logo="https://i.postimg.cc/CLNzczNh/20230203-184729.png" group-title="TV Dunia",KBS News D (Korea)
+http://ye23.vip/z7z8/2021/kbs2020.php?id=4
+
+#EXTINF:-1 tvg-id="KBSStory.kr" tvg-logo="https://i.postimg.cc/CLNzczNh/20230203-184729.png" group-title="TV Dunia",KBS Story (Korea)
+http://ye23.vip/z7z8/2021/kbs2020.php?id=8
+
+#EXTINF:-1 tvg-id="SBSTV.kr" tvg-logo="https://i.postimg.cc/y8wzGv68/20221120-103717.png" group-title="TV Dunia",KNN SBS (Korea)
+http://211.220.195.200:1935/live/mp4:KnnTV.sdp/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="SBSTV.kr" tvg-logo="https://i.postimg.cc/y8wzGv68/20221120-103717.png" group-title="TV Dunia",KBC SBS (Korea)
+http://119.200.131.11:1935/KBCTV/tv/chunklist_w1356014963.m3u8
+  
+#EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.postimg.cc/1tYtfDcn/20221120-110016.png" group-title="TV Dunia",MBC HD (Korea)
+http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w1655101362.m3u8
+
+#EXTINF:-1 tvg-id="JTBC.kr" tvg-logo="https://i.postimg.cc/vmhDwJ4v/20221120-110001.png" group-title="TV Dunia",JTBC (Korea)
+https://apichvod11.seezntv.com/OTM/10010_L.m3u8?AdaptiveType=HLS&SessionID=183ff833-773e-4521-8693-91314b65fe37
+
+#EXTINF:-1 tvg-id="CBS.kr" tvg-logo="https://i.postimg.cc/zf83MzGB/20221120-105948.png" group-title="TV Dunia",CBS HD (Korea)
+http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/chunklist_w1833548594.m3u8
