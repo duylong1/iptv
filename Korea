@@ -2,7 +2,7 @@
 http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 
 #EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://i.postimg.cc/CLNzczNh/20230203-184729.png" group-title="TV Dunia",KBS 2 (Korea)
-http://ye23.vip/z7z8/2021/kbs2020.php?id=2
+rtmp://112.175.138.137:1935/2tv/_definst_/2tv_5.stream
 
 #EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" status="online",KCTV
 https://tv.nknews.org/tvdash/stream.mpd
@@ -29,7 +29,7 @@ http://ye23.vip/z7z8/2021/kbs2020.php?id=8
 http://211.220.195.200:1935/live/mp4:KnnTV.sdp/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="SBSTV.kr" tvg-logo="https://i.postimg.cc/y8wzGv68/20221120-103717.png" group-title="TV Dunia",KBC SBS (Korea)
-http://119.200.131.11:1935/KBCTV/tv/chunklist_w1356014963.m3u8
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
   
 #EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.postimg.cc/1tYtfDcn/20221120-110016.png" group-title="TV Dunia",MBC HD (Korea)
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w1655101362.m3u8
@@ -39,3 +39,6 @@ https://apichvod11.seezntv.com/OTM/10010_L.m3u8?AdaptiveType=HLS&SessionID=183ff
 
 #EXTINF:-1 tvg-id="CBS.kr" tvg-logo="https://i.postimg.cc/zf83MzGB/20221120-105948.png" group-title="TV Dunia",CBS HD (Korea)
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/chunklist_w1833548594.m3u8
+
+#EXTINF:-1 tvg-id="ArirangTV.kr",Arirang (720p)
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
