@@ -3,7 +3,7 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-3_180817.png",CCTV-2
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-3_180817.png",CCTV-3
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-4_180817.png",CCTV-4
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-5_180817.png",CCTV-5
