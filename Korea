@@ -2,7 +2,7 @@
 http://ye23.vip/z7z8/2021/kbs2020.php?id=1
 
 #EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://i.postimg.cc/CLNzczNh/20230203-184729.png" group-title="TV Dunia",KBS 2 (Korea)
-rtmp://112.175.138.137:1935/2tv/_definst_/2tv_5.stream
+http://ye23.vip/z7z8/2021/kbs2020.php?id=2
 
 #EXTINF:-1 tvg-id="FashionTVMidnightSecrets.fr" status="online",KCTV
 https://tv.nknews.org/tvdash/stream.mpd
