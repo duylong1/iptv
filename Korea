@@ -26,28 +26,58 @@ http://ye23.vip/z7z8/2021/kbs2020.php?id=4
 http://ye23.vip/z7z8/2021/kbs2020.php?id=8
 
 #EXTINF:-1 tvg-id="SBSTV.kr" tvg-logo="https://i.postimg.cc/y8wzGv68/20221120-103717.png" group-title="TV Dunia",SBS (Korea)
-https://allanf181.github.io/adaptive-streams/streams/kr/SBSTV.m3u8
+https://code.vthanhtivi.pw/getlink/jptvvn/185/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Dunia" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3f/CJB.jpg/revision/latest?cb=20200224093248&path-prefix=ko", CJB SBS
+http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Dunia" tvg-logo="https://upload.wikimedia.org/wikipedia/ko/8/8b/TJB_Logo.jpg", TJB SBS
+http://1.245.74.5:1935/live/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Dunia" tvg-logo="https://seeklogo.com/images/K/kbc-gwangju-broadcasting-logo-AB816EA5AB-seeklogo.com.png", KBC SBS
+http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Dunia" tvg-logo="https://seeklogo.com/images/U/ulsan-broadcasting-corporation-logo-74802A0933-seeklogo.com.png", UBC SBS
+http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBSTV.kr" tvg-logo="https://i.postimg.cc/y8wzGv68/20221120-103717.png" group-title="TV Dunia",KNN SBS (Korea)
 http://211.220.195.200:1935/live/mp4:KnnTV.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SBSTV.kr" tvg-logo="https://i.postimg.cc/y8wzGv68/20221120-103717.png" group-title="TV Dunia",KBC SBS (Korea)
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Dunia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/G1_broadcasting_logo.svg/220px-G1_broadcasting_logo.svg.png", G1 SBS
+http://61.82.49.4:1935/live/_definst_/tv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Dunia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/SBS_Golf_logo_2018.svg/2560px-SBS_Golf_logo_2018.svg.png", SBS Golf
+https://code.vthanhtivi.pw/getlink/jptvvn/197/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Dunia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmn2awAL51ndbgHrk3JaGpoDR2drVWD4cGAQ&usqp=CAU", SBS Sports
+https://code.vthanhtivi.pw/getlink/jptvvn/196/playlist.m3u8
   
 #EXTINF:-1 tvg-id="MBC.kr" tvg-logo="https://i.postimg.cc/1tYtfDcn/20221120-110016.png" group-title="TV Dunia",MBC HD (Korea)
 http://vod.mpmbc.co.kr:1935/live/encoder-tv/chunklist_w1655101362.m3u8
 
+#EXTINF:-1 group-title="TV Dunia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/MBC_SportsPlus.svg/2560px-MBC_SportsPlus.svg.png", MBC Sports+
+https://code.vthanhtivi.pw/getlink/jptvvn/194/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Dunia" tvg-logo="https://blog.kakaocdn.net/dn/tM6Kb/btqDTknvvWL/jKCkEDphfkhBdImKnq2k2k/img.jpg", MBC ON
+https://code.vthanhtivi.pw/getlink/jptvvn/85/playlist.m3u8
 
 #EXTINF:-1 tvg-id="JTBC.kr" tvg-logo="https://i.postimg.cc/vmhDwJ4v/20221120-110001.png" group-title="TV Dunia",JTBC (Korea)
-https://apichvod11.seezntv.com/OTM/10010_L.m3u8?AdaptiveType=HLS&SessionID=183ff833-773e-4521-8693-91314b65fe37
+https://code.vthanhtivi.pw/getlink/jptvvn/186/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CBS.kr" tvg-logo="https://i.postimg.cc/zf83MzGB/20221120-105948.png" group-title="TV Dunia",CBS HD (Korea)
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/chunklist_w1833548594.m3u8
+
+#EXTINF:-1 group-title="TV Dunia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png", Mnet
+https://code.vthanhtivi.pw/getlink/jptvvn/96/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Dunia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
 https://code.vthanhtivi.pw/getlink/jptvvn/199/playlist.m3u8
 
 #EXTINF:-1 group-title="TV Dunia" tvg-logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png", SPOTV2
 https://code.vthanhtivi.pw/getlink/jptvvn/200/playlist.m3u8
+
 #EXTINF:-1 tvg-id="ArirangTV.kr",Arirang (720p)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
