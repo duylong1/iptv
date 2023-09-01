@@ -44,5 +44,10 @@ https://apichvod11.seezntv.com/OTM/10010_L.m3u8?AdaptiveType=HLS&SessionID=183ff
 #EXTINF:-1 tvg-id="CBS.kr" tvg-logo="https://i.postimg.cc/zf83MzGB/20221120-105948.png" group-title="TV Dunia",CBS HD (Korea)
 http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/chunklist_w1833548594.m3u8
 
+#EXTINF:-1 group-title="TV Dunia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
+https://code.vthanhtivi.pw/getlink/jptvvn/199/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Dunia" tvg-logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png", SPOTV2
+https://code.vthanhtivi.pw/getlink/jptvvn/200/playlist.m3u8
 #EXTINF:-1 tvg-id="ArirangTV.kr",Arirang (720p)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
