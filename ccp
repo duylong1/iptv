@@ -30,9 +30,9 @@ http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 #EXTINF:-1 group-title="CHINA TV" tvg-id="16" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-15_180817.png",CCTV-15
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-#EXTINF:-1 group-title="CHINA TV" tvg-id="17" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-16_180817.png",CCTV-16
+#EXTINF:-1 group-title="CHINA TV" tvg-id="" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-16_180817.png",CCTV-16
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
-#EXTINF:-1 group-title="CHINA TV" tvg-id="18" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-17_180817.png",CCTV-17
+#EXTINF:-1 group-title="CHINA TV" tvg-id="17" tvg-logo="https://p1.img.cctvpic.com/photoAlbum/templet/common/DEPA1532314258547503/cctv-17_180817.png",CCTV-17
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
 #EXTINF:-1 group-title="CHINA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TVB_Jade_logo.svg/1200px-TVB_Jade_logo.svg.png",TVB Jade
 http://stream.cvmtv.site/Jade?token=live
