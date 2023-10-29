@@ -95,15 +95,6 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/Channels_IPTV_02.png/revision/latest?cb=20180627175021", EBS+2
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
-
-
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://static.wikia.nocookie.net/drama/images/0/07/JTBC.png/revision/latest?cb=20200229211326", JTBC
-
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/JTBCGolf%26Sportslogo.png", JTBC Golf & Sports
-
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://image.jtbcgolf.joins.com/mypage/img//m_jtbcgolf_logo.png", JTBC Golf
-
-
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TV_Chosun_Logo_%28English%29.svg/1280px-TV_Chosun_Logo_%28English%29.svg.png", TV Chosun
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
@@ -112,33 +103,7 @@ http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Channel_A_Logo_transparent.png", Channel A
 
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MBN_Channel_Logo.svg/2560px-MBN_Channel_Logo.svg.png", MBN
-
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/YTN_logo_2014.svg/2560px-YTN_logo_2014.svg.png", YTN
-
-
-
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1280px-Logo_tvN.svg.png", tvN
-
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://image.ytn.co.kr/general/jpg/2022/0418/202204180930467945_d.jpg", tvN Sports
-
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Logo_tvN_SHOW.svg/1200px-Logo_tvN_SHOW.svg.png", tvN Show
-
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/95/Mnet.png", Mnet
-
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/OCN_Logo.svg/1200px-OCN_Logo.svg.png", OCN
-
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://dimg.donga.com/wps/SPORTS/IMAGE/2020/01/17/99271953.1.jpg", OCN Movies
-
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://i.namu.wiki/i/Svu8OgGq0pwaYcCCQCyHcLd9yEHi1uJWO-dJ7xBwL9eG2XpEP6GXHU82sZy0muM8YXqBegUI0YlJF33DLJNvzA.webp", OCN Movies 2
-
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://i.namu.wiki/i/UxS124hJwZ9rn9KhQTshqL-PjDKQsIKy1vQUlDMaIeW9RVtmGWebsa3-mV_1gC-4Mq1kt6y4F9qAsPLQyZtz2Q.webp", iHQ
-
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/chkp4c1617709660.png", Sky Sports
-
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV
-
-#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://cms.spotvasia.com/upload/channel/file_15a81966-c8d6-492a-aed6-3c6a8ff34604.png", SPOTV2
-
+#EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/MBN_Channel_Logo.svg/2560px-MBN_Channel_Logo.svg.png", 국방 TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 group-title="🇰🇷| Hàn Quốc" tvg-id="ArirangTV.kr",Arirang (720p)
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
